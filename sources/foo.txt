@@ -5,4 +5,4 @@ int main()
 {
 cout<<"hello world";
 }
-Mình tên quỳnh
+Mình tên quỳnh, xin chào
