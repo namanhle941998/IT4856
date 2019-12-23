@@ -1,1 +1,7 @@
 Mình tên Quân, thôi chào bạn mình đi kiếm người nói tiếng anh đây :v
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"hello world";
+}
